@@ -6,6 +6,10 @@ const nextConfig: NextConfig = {
   images: {
     unoptimized: true,
   },
+  turbopack: {
+    root: __dirname,
+  },
+  trailingSlash: true,
 };
 
 export default nextConfig;
