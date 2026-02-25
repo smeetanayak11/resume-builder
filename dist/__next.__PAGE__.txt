@@ -1,0 +1,7 @@
+1:"$Sreact.fragment"
+2:I[51334,["/_next/static/chunks/65e79ebb9b758b97.js","/_next/static/chunks/3cf9605e7fbeb9a6.js"],"TopBar"]
+3:I[86727,["/_next/static/chunks/65e79ebb9b758b97.js","/_next/static/chunks/3cf9605e7fbeb9a6.js"],""]
+4:I[46147,["/_next/static/chunks/7b5613a5694dd5aa.js","/_next/static/chunks/ae8f956b9078c27c.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+0:{"buildId":"P0a0vWDEb6_VrlauPA0F3","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen flex flex-col","children":[["$","$L2",null,{}],["$","main",null,{"className":"flex-1 flex items-center justify-center px-6","children":["$","div",null,{"className":"max-w-2xl text-center","children":[["$","h1",null,{"className":"text-4xl md:text-5xl font-semibold text-gray-900 mb-6 tracking-tight","children":"Build a Resume That Gets Read."}],["$","p",null,{"className":"text-lg text-gray-600 mb-8 leading-relaxed","children":"Create a professional, ATS-optimized resume with our intelligent builder. Real-time preview, smart suggestions, and beautiful templates."}],["$","$L3",null,{"href":"/builder","className":"inline-flex items-center justify-center px-8 py-3 text-base font-medium text-white bg-gray-900 rounded-lg hover:bg-gray-800 transition-colors","children":"Start Building"}]]}]}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/3cf9605e7fbeb9a6.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+6:null
